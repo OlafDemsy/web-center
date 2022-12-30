@@ -1,0 +1,30 @@
+.full{
+    margin: 0;
+    padding: 0;
+    border: 10px solid red;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.mail{
+    border: 10px solid green;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 40px;
+    
+}
+
+.twitter{
+    border: 10px solid gray;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 40px;
+}
